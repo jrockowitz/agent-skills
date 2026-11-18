@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "drupalorg-cli": {
+      "source": "mglaman/drupalorg-cli",
+      "commit": "06dd38fa40bc9823b97d97e3a5997d1cf0d44921",
+      "sourceType": "github",
+      "skillPath": "skills/drupalorg-cli/SKILL.md",
+      "computedHash": "68db89d70834b5ed6e885279dfe2b13730614cac2298bb00aa8f915271bb17fc"
+    }
+  }
+}
