@@ -31,7 +31,7 @@ their current instructions as authoritative when they are stricter.
 Run the read-only inventory script from the project root:
 
 ```bash
-.agents/skills/shared/schemadotorg-module-audit/scripts/inspect-module.sh <base|submodule>
+.agents/skills/_shared/schemadotorg-module-audit/scripts/inspect-module.sh <base|submodule>
 ```
 
 Confirm all of the following before editing:
