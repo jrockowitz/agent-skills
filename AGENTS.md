@@ -3,7 +3,7 @@
 This repository supplies skills to the `drupal_playground` checkout and its worktrees.
 Each checkout has two links under `.agents/skills/`:
 
-- `custom` → `~/Sites/agent-skills/custom`: repository-owned skills and their supporting files.
+- `shared` → `~/Sites/agent-skills/custom`: repository-owned skills and their supporting files.
 - `skills.sh` → `~/Sites/agent-skills/.agents/skills`: third-party skills installed from
   `skills-lock.json`. Installed files are ignored by Git.
 
