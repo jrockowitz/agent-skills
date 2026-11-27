@@ -153,11 +153,14 @@ Each issue note links evidence and records:
 
 ### MR titles
 
-- Reproduction: `test: #<issue> - webform <branch>: reproduce <issue title>`
-- Fix: `fix: #<issue> - webform <branch>: <issue title>`
+- Reproduction: `test: #<security-id> - webform <branch>: reproduce <issue title>`
+- Fix: `fix: #<security-id> - webform <branch>: <issue title>`
 
-`<issue>` is the work-item number, `<branch>` the MR target branch, and
-`<issue title>` the work-item title without its `webform:` prefix.
+`<security-id>` is the security issue number in the private fork path (for
+example, `185838` in `security/185838-webform-security`), not the fork-local
+work-item number in `/work_items/1`. Confirm it matches the issue note and
+branch name before submitting the MR. `<branch>` is the MR target branch, and
+`<issue title>` is the work-item title without its `webform:` prefix.
 
 ## 4. Advisory and release
 

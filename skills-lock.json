@@ -169,6 +169,13 @@
       "skillPath": "skills/engineering/triage/SKILL.md",
       "computedHash": "4342a07c9ebe0696713ec93a883c46e56503a587a34d824fabab5ca61e3bdfbb"
     },
+    "unslop": {
+      "source": "backnotprop/pstack",
+      "commit": "c81f1bf680803f9e3f0cade6adb62593f43fb61f",
+      "sourceType": "github",
+      "skillPath": "skills/unslop/SKILL.md",
+      "computedHash": "16b4c6af803d25028b40af775bc42a1c9ce85c741c7d117054c781f8e40d6f47"
+    },
     "wait-what": {
       "source": "mattpocock/skills",
       "commit": "d65391149dbb5fe76478e76fa8d5122b2aa5a70e",
